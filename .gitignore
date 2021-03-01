@@ -127,10 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.idea
-.idea/jubilant-journey.iml
-.idea/jubilant-journey.iml
-.idea/jubilant-journey.iml
-.idea/modules.xml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/inspectionProfiles/profiles_settings.xml
+.idea/
